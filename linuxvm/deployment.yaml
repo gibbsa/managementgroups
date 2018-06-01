@@ -11,3 +11,7 @@ parameters:
       secretName: password
   dnsLabelPrefix:
     value: shawnglinux
+  departmentName:
+    value: myDepartment
+  applicationName:
+    value: myApp
