@@ -14,4 +14,4 @@ parameters:
   departmentName:
     value: myDepartmen
   applicationName:
-    value: myApp1
+    value: myApp
