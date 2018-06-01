@@ -14,3 +14,5 @@ parameters:
     value: Subnet2
   subnet2Prefix:
     value: 10.0.1.0/16
+  tag:
+    value: Production
