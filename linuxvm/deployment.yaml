@@ -15,5 +15,3 @@ parameters:
     value: myDepartment
   applicationName:
     value: myApp
-  environmentName:
-    value: Production
