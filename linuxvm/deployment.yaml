@@ -12,6 +12,6 @@ parameters:
   dnsLabelPrefix:
     value: shawnglinux
   departmentName:
-    value: myDepartmen
+    value: myDepartment
   applicationName:
     value: myApp
