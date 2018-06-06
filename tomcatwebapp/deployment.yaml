@@ -5,4 +5,4 @@ parameters:
   hostingPlanName:
     value: hostingPlan
   webSiteName:
-    value: siteNames
+    value: siteName
