@@ -14,4 +14,4 @@ parameters:
   lobtId:
     value: myDepartment
   environmentName:
-    value: prod
+    value: nprod
