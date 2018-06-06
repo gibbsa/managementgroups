@@ -3,6 +3,6 @@
 contentVersion: 1.0.0.0
 parameters:
   hostingPlanName:
-    value: GEN-UNIQUE
+    value: hostingPlan
   webSiteName:
     value: GEN-UNIQUE
