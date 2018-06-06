@@ -11,7 +11,5 @@ parameters:
       secretName: password
   dnsLabelPrefix:
     value: shawnglinux
-  lobtId:
-    value: myDepartment
   environmentName:
     value: nprod
