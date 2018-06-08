@@ -5,4 +5,4 @@ parameters:
   hostingPlanName:
     value: hostingPlan
   webSiteName:
-    value: AtestingDeploymentTomcat
+    value: AtestingDeployment
